@@ -1,0 +1,24 @@
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\Variant3\Variant3\bin\Debug\Variant3.exe.config
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\Variant3\Variant3\bin\Debug\Variant3.exe
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\Variant3\Variant3\bin\Debug\Variant3.pdb
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\Variant3\Variant3\obj\Debug\Variant3.Form1.resources
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\Variant3\Variant3\obj\Debug\Variant3.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\Variant3\Variant3\obj\Debug\Variant3.csproj.GenerateResource.Cache
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\Variant3\Variant3\obj\Debug\Variant3.exe
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\Variant3\Variant3\obj\Debug\Variant3.pdb
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\Variant3\Variant3\obj\Debug\Variant3.Form2.resources
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\Variant3\Variant3\obj\Debug\Variant3.csproj.ResolveComReference.cache
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\Variant3\Variant3\obj\Debug\Variant3.Form3.resources
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\Variant3\Variant3\obj\Debug\Variant3.csprojResolveAssemblyReference.cache
+D:\VisualStudio2013\Projects\Variant3\Variant3\bin\Debug\Variant3.exe.config
+D:\VisualStudio2013\Projects\Variant3\Variant3\obj\Debug\Variant3.csproj.ResolveComReference.cache
+D:\VisualStudio2013\Projects\Variant3\Variant3\obj\Debug\Variant3.exe
+D:\VisualStudio2013\Projects\Variant3\Variant3\obj\Debug\Variant3.pdb
+D:\VisualStudio2013\Projects\Variant3\Variant3\bin\Debug\Variant3.exe
+D:\VisualStudio2013\Projects\Variant3\Variant3\bin\Debug\Variant3.pdb
+D:\VisualStudio2013\Projects\Variant3\Variant3\obj\Debug\Variant3.csprojResolveAssemblyReference.cache
+D:\VisualStudio2013\Projects\Variant3\Variant3\obj\Debug\Variant3.Form1.resources
+D:\VisualStudio2013\Projects\Variant3\Variant3\obj\Debug\Variant3.Form2.resources
+D:\VisualStudio2013\Projects\Variant3\Variant3\obj\Debug\Variant3.Form3.resources
+D:\VisualStudio2013\Projects\Variant3\Variant3\obj\Debug\Variant3.Properties.Resources.resources
+D:\VisualStudio2013\Projects\Variant3\Variant3\obj\Debug\Variant3.csproj.GenerateResource.Cache
